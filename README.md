@@ -54,3 +54,32 @@ When planning the design, the focus is on:
 In a platform like StayEase, user experience is everything.
 
 A thoughtful design helps users find what they need quickly, reduces confusion during checkout, and keeps them coming back. The more seamless the experience, the higher the trust and conversion rates.
+
+---
+
+## More UI/UX Design Planning
+
+### Color Palette
+| Role | Color | Description |
+|------|--------|-------------|
+| **Primary** | `#FF5A5F` | Main accent color for buttons and highlights |
+| **Secondary** | `#008489` | Secondary elements and links |
+| **Background** | `#FFFFFF` | Default background |
+| **Text** | `#222222` | Main body text |
+| **Secondary Text** | `#717171` | Subheadings and muted labels |
+
+### Typography
+| Type | Font | Weight | Size |
+|------|------|---------|------|
+| **Primary Font** | Circular | Medium (500) | 16px |
+| **Headings** | Circular | Bold (700) | 24px – 32px |
+| **Secondary Text** | Circular | Book (400) | 14px |
+
+
+### Importance of identifying design properties of a mock up design.
+
+Identifying colors, typography, and layout patterns early makes development smoother.  
+
+It helps maintain consistency, reduces guesswork, and ensures that designers and developers are speaking the same visual language.
+
+---
