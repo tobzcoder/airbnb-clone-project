@@ -83,3 +83,37 @@ Identifying colors, typography, and layout patterns early makes development smoo
 It helps maintain consistency, reduces guesswork, and ensures that designers and developers are speaking the same visual language.
 
 ---
+
+## Project Roles and Responsibilities
+
+| Role | Key Responsibilities |
+|------|------------------------|
+| **Project Manager** | Keeps the project on schedule, organizes meetings, and tracks progress. |
+| **Frontend Developers** | Build the UI components, ensure responsiveness, and connect with APIs. |
+| **Backend Developers** | Set up the database, manage APIs, and implement business logic. |
+| **Designers** | Develop the mockups, define design systems, and focus on user experience. |
+| **QA/Testers** | Write and run test cases, find bugs, and verify features. |
+| **DevOps Engineers** | Handle deployment, hosting, and continuous integration. |
+| **Product Owner** | Define features, prioritize tasks, and align the project with goals. |
+| **Scrum Master** | Facilitate agile sprints, remove blockers, and improve workflow. |
+
+Every role contributes to making StayEase a reliable and user-centered product.
+
+---
+
+## UI Component Patterns
+
+#### Navbar
+- Displays logo, search bar, and user navigation.  
+- Includes a responsive hamburger menu for smaller screens.  
+
+#### Property Card
+- Shows property photo, price, location, and rating.  
+- Includes a favorite button for saving listings.  
+- Reusable and fits easily into listing grids.  
+
+#### Footer
+- Contains site links, about section, and social media icons.  
+- Minimal design to keep the focus on content.  
+
+---
